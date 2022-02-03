@@ -1,0 +1,25 @@
+Setup:AdaptivePass
+Problem Type:  C
+C Units:fF, G Units:mSie
+Reduce Matrix:  Original
+Frequency: 5.305863GHz
+
+Capacitance Matrix
+	a_connector_pad_Q4	b_connector_pad_Q4	c_connector_pad_Q4	cl_metal_Q4	ground_main_plane	pad_bot_Q4	pad_top_Q4
+a_connector_pad_Q4	52.53668	-0.43711	-0.84400	-0.01147	-35.21673	-13.45867	-1.60021
+b_connector_pad_Q4	-0.43711	52.43753	-0.20207	-0.01500	-35.42431	-1.55821	-13.82001
+c_connector_pad_Q4	-0.84400	-0.20207	52.48310	-0.05860	-35.26452	-13.46672	-1.66976
+cl_metal_Q4	-0.01147	-0.01500	-0.05860	16.01220	-15.58622	-0.10213	-0.16477
+ground_main_plane	-35.21673	-35.42431	-35.26452	-15.58622	241.52243	-27.95310	-32.50450
+pad_bot_Q4	-13.45867	-1.55821	-13.46672	-0.10213	-27.95310	80.66906	-21.97395
+pad_top_Q4	-1.60021	-13.82001	-1.66976	-0.16477	-32.50450	-21.97395	74.13410
+
+Conductance Matrix
+	a_connector_pad_Q4	b_connector_pad_Q4	c_connector_pad_Q4	cl_metal_Q4	ground_main_plane	pad_bot_Q4	pad_top_Q4
+a_connector_pad_Q4	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000
+b_connector_pad_Q4	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000
+c_connector_pad_Q4	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000
+cl_metal_Q4	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000
+ground_main_plane	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000
+pad_bot_Q4	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000
+pad_top_Q4	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000
