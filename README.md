@@ -1,6 +1,6 @@
 # 4-qubit Quantum processor Design using Qiskit Metal
 Designing a 4-qubit superconducting quantum processor using Qiskit Metal.
-For full presentation: <a href="./Presentation/Qiskit\ Metal\ Study\ Gathering\ Day-4.pdf">Click here</a>
+For full presentation: <a href="https://github.com/AbeerVaishnav13/4-qubit-design/blob/main/Presentation/Qiskit%20Metal%20Study%20Gathering%20Day-4.pdf">Click here</a>
 
 ![](./shot.png)
 
